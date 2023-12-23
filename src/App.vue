@@ -43,8 +43,8 @@ import { MdOutlineFileDownload } from "react-icons/md";
             <img src="./assets/image/logo-1.png" alt="">
             <img src="./assets/image/logo-2.png" alt="">
             <img src="./assets/image/logo-3.png" alt="">
-            <img src="./assets/image/logo-4.png" alt="">
             <img src="./assets/image/logo-5.png" alt="">
+            <img src="./assets/image/logo-6.png" alt="">
         </div>
    </div>
    <!-- section des logos  -->
@@ -107,16 +107,21 @@ import { MdOutlineFileDownload } from "react-icons/md";
    <!-- section de skills -->
 
    <!-- dection des services -->
-    <div>
-        <h4>
+    <div class="text-center">
+        <h4 class="font-bold text-2xl text-blue-600">
             Services
         </h4>
-        <h1>
-            Exploring My Design <span>Skills</span>
+        <h1 class="text-4xl font-bold py-5">
+            Exploring My Design <span class="text-blue-600">Skills</span>
         </h1>
         <p>
             We transform your ideas into a distinctive web project that both inspires <br> you and captivates your customers
         </p>
+    </div>
+    <!-- les buton du slider -->
+    <div class="flex justify items-center align-cent gap-3 ">
+        <div class="h-7 w-7 rounded-full bg-blue-600"></div>
+        <div class="h-7 w-7 rounded-full bg-blue-600"></div>
     </div>
    <!-- dection des services -->
 </template>
