@@ -359,7 +359,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
    <!-- section temoignage  -->
 
    <!-- section contact -->
-   <div class="bg-blue-600">
+   <div class="bg-blue-600 py-10 px-20">
         <div class="text-center"> 
             <h4 class="text-2xl text-white">
                 contact me
@@ -409,7 +409,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
    <!-- section contact -->
 
    <!-- footer -->
-   <div class="bg-blue-600 py-10 px-20 sm:text-center">
+   <div class="bg-blue-600 py-10 px-20 sm:text-center ">
         <div class="flex-col flex  justify-center items-center  md:flex-row lg:flex-row xl:flex-row 2xl:flex-row">
             <div class="flex ">
                 <img src="./assets/image/Group 8.png" alt="">
