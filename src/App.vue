@@ -10,7 +10,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
    <Navbar/>
 
    <!-- section hero -->
-    <div class="flex-col-reverse flex justify-between sm:flex-col-reverse sm:text-center  md:flex-row lg:flex-row xl:flex-row  py-10 px-20">
+    <div class="flex-col-reverse flex justify-between sm:flex-col-reverse sm:text-center md:text-left  md:flex-row lg:flex-row xl:flex-row  py-10 px-20">
         <div class="pt-20 ">
             <p class="font-bold">Welcome to my Portfolio</p>
             <h1 class="text-6xl font-bold py-5">
