@@ -10,7 +10,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
    <Navbar/>
 
    <!-- section hero -->
-    <div class="flex-col-reverse flex justify-between sm:flex-col-reverse  md:flex-row lg:flex-row xl:flex-row  py-10 px-20">
+    <div class="flex-col-reverse flex justify-between sm:flex-col-reverse sm:text-center  md:flex-row lg:flex-row xl:flex-row  py-10 px-20">
         <div class="pt-20 ">
             <p class="font-bold">Welcome to my Portfolio</p>
             <h1 class="text-6xl font-bold py-5">
@@ -73,7 +73,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
                 </p>
             </div>
 
-       <div class="flex gap-10 py-5 ">
+       <div class="flex gap-10 py-5 sm: ">
             <button class="h-10 bg-blue-600 text-white font-bold  rounded-full w-32">Main Skills</button>
             <button class="h-10 border-2 border-blue-600 text-bleu-600 font-bold  rounded-full w-32">Awards</button>
             <button class="h-10 border-2 border-blue-600 text-bleu-600 font-bold  rounded-full w-32">Education</button>
